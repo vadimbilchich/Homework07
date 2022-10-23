@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\bin\Debug\net6.0\task050.exe
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\bin\Debug\net6.0\task050.deps.json
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\bin\Debug\net6.0\task050.runtimeconfig.json
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\bin\Debug\net6.0\task050.dll
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\bin\Debug\net6.0\task050.pdb
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.dll
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\refint\task050.dll
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.pdb
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\task050.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Homework06\Tasks\task050\obj\Debug\net6.0\ref\task050.dll
